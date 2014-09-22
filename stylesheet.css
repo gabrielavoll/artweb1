@@ -3,16 +3,17 @@
   background-color:#FFFFFF ; 
   width: 80%; 
   height: 700px; 
-  margin-right: -5px; 
+  margin-right: -10px; 
   margin-top: 200px; 
   
 }
 
 .top  {
-  height:200px; 
-  margin-top:-5px ;
-  margin-right:-5px; 
-  margin-left:-5px;
+  height:210px; 
+  margin-top:-10px ;
+  margin-right:-10px; 
+  margin-left:-10px;
+  position: fixed;
   background-color: #FFCC99; 
 
 
@@ -24,6 +25,6 @@
   height: 700px; 
   width:20%;
   background-color: #000000;
-  margin-top: 200px; 
-  margin-left: -5px; 
+  margin-top: 210px; 
+  margin-left: -10px; 
 }
