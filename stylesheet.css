@@ -22,14 +22,16 @@
 
 .top a {
   color: #000000;  
-  margin-top: 10%;
-  padding-top: 10%;
   font-size: 60px;
   margin-left: 10%;
   text-decoration:none;
   
 }
 
+.top p {
+  margin-top: 10%;
+  
+}
 
 .navbar {
    
