@@ -3,7 +3,7 @@
   background-color: #D11975;
   <!-- background-color:#FFFFFF ; -->
   width: 80%; 
-  height: 80%; 
+  height: 1000px; 
   margin-right: -10px; 
   margin-top: 10%; 
   
@@ -29,7 +29,7 @@
 }
 
 .top p {
-  margin-top: 10%;
+  margin-top: 5%;
   
 }
 
