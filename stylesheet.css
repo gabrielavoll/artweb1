@@ -1,6 +1,7 @@
 .center  {
   float: right; 
-  background-color:#FFFFFF ; 
+  background-color: #D11975;
+  <!-- background-color:#FFFFFF ; -->
   width: 78%; 
   height: 78%; 
   margin-right: -10px; 
@@ -20,7 +21,7 @@
 
 .top a {
   color: #000000;  
-  margin-top: 10%;
+  margin-top: 15%;
   font-size: 60px;
   margin-left: 10%;
   text-decoration:none;
