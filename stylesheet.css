@@ -18,7 +18,7 @@
 
 }
 
-.top h1 {
+.top a {
   color: #000000;  
   margin-top: 5%;
   font-size: 60px;
@@ -45,7 +45,7 @@
 .navbar li  {
   margin-left: 5%; 
   margin-top: 20px;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
   list-style-type: none; 
   color:;#FFCCCC;
   font-size: 24px;
