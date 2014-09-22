@@ -19,9 +19,11 @@
 
 }
 
+
 .top a {
   color: #000000;  
-  margin-top: 15%;
+  margin-top: 10%;
+  padding: 10px;
   font-size: 60px;
   margin-left: 10%;
   text-decoration:none;
