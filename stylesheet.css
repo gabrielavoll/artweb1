@@ -21,6 +21,7 @@
 .top h1 {
   color: #000000;  
   margin-top: 5%;
+  font-size: 60px;
   margin-left: 10%;
   
 }
@@ -42,11 +43,11 @@
 
 .navbar li  {
   margin-left: 5%; 
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 90px;
+  margin-bottom: 90px;
   list-style-type: none; 
   color:;#FFCCCC;
-  font-size: 20px;
+  font-size: 24px;
    
 }
 
