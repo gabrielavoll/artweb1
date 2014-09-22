@@ -10,7 +10,9 @@
 
 .top  {
   height:200px; 
-  
+  margin-top:-5px ;
+  margin-right:-5px; 
+  margin-left:-5px;
   background-color: #FFCC99; 
   position:fixed;
 
