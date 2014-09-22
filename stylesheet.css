@@ -10,8 +10,11 @@
 }
 
 .center img {
-  
   width=40%; 
+}
+
+.center p {
+  padding-left: 10px;
 }
 
 .top  {
