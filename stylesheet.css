@@ -23,6 +23,7 @@
   margin-top: 5%;
   font-size: 60px;
   margin-left: 10%;
+  text-decoration:none;
   
 }
 
@@ -37,14 +38,14 @@
 }
 
 .navbar ul {
- margin-top: 10%;  
+ margin-top: 15%;  
 
 }
 
 .navbar li  {
   margin-left: 5%; 
-  margin-top: 90px;
-  margin-bottom: 90px;
+  margin-top: 20px;
+  margin-bottom: 100px;
   list-style-type: none; 
   color:;#FFCCCC;
   font-size: 24px;
