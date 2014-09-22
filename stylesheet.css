@@ -1,0 +1,26 @@
+.center  {
+  float: right; 
+  background-color:#FFFFFF ; 
+  width: 80%; 
+  height: 700px; 
+  margin-right: -5px; 
+  margin-top: 200px; 
+  
+}
+
+.top  {
+  height:200px; 
+  margin: -5px -5px 0px -5px; 
+  background-color: #FFCC99; 
+
+}
+
+.navbar {
+  float: left; 
+  position: fixed; 
+  height: 700px; 
+  width:20%;
+  background-color: #000000;
+  margin-top: 200px; 
+  margin-left: -5px; 
+}
