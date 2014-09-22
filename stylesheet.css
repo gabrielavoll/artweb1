@@ -35,11 +35,18 @@
   margin-left: -10px; 
 }
 
+.navbar ul {
+ margin-top: 10%;  
+
+}
+
 .navbar li  {
-  margin-left: 10px; 
-  margin-top: 10px;
+  margin-left: 5%; 
+  margin-top: 20px;
+  margin-bottom: 20px;
   list-style-type: none; 
   color:;#FFCCCC;
+  font-size: 20px;
    
 }
 
