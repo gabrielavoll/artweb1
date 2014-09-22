@@ -10,9 +10,8 @@
 
 .top  {
   height:20%; 
-  margin-top:-10px ;
-  margin-right:-10px; 
-  margin-left:-10px;
+  width:110%; 
+  margin:-10px;
   position: fixed;
   background-color: #FFCC99; 
 
@@ -25,6 +24,6 @@
   height: 80%; 
   width:20%;
   background-color: #000000;
-  margin-top: 210px; 
+  margin-top: 10px; 
   margin-left: -10px; 
 }
