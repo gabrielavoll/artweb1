@@ -2,14 +2,14 @@
   float: right; 
   background-color:#FFFFFF ; 
   width: 80%; 
-  height: 100%-210px; 
+  height: 80%; 
   margin-right: -10px; 
   margin-top: 210px; 
   
 }
 
 .top  {
-  height:200px; 
+  height:20%; 
   margin-top:-10px ;
   margin-right:-10px; 
   margin-left:-10px;
@@ -22,7 +22,7 @@
 .navbar {
   float: left; 
   position: fixed; 
-  height: 100%-210px; 
+  height: 80%; 
   width:20%;
   background-color: #000000;
   margin-top: 210px; 
