@@ -4,13 +4,19 @@
   height: 1500px; 
    
   margin-left:22%;
-  margin-top: 12%; 
+  margin-top: 90px; 
   border: 2px black solid ;
   
 }
 
-.center img {
-  width=40%; 
+#artgato{
+  margin-left:200px;
+  margin-top:50px; 
+}
+
+#gabby {
+  margin-left: 100px;
+  margin-top: 30px;
 }
 
 .center p {
@@ -18,7 +24,7 @@
 }
 
 .top  {
-  height:20%; 
+  height:100px; 
   width:100%; 
   margin-top:-20px;
   margin-left:-10px;
@@ -31,15 +37,14 @@
 
 .top a {
   color: #000000;  
-  font-size: 60px;
+  font-size: 50px;
   text-decoration:none;
   
 }
 
 .top p {
-  margin-top: 2%;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-top: 25px;
+  margin-left: 40px;
   
 }
 
@@ -50,7 +55,7 @@
   height: 80%; 
   width:20%;
   background-color: #000000;
-  margin-top: 10%; 
+  margin-top: 80px; 
   margin-left: -10px; 
 }
 
@@ -61,11 +66,11 @@
 
 .navbar li  {
   margin-left: 5%; 
-  margin-top: 20px;
-  margin-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 40px;
   list-style-type: none; 
   color:;#FFCCCC;
-  font-size: 24px;
+  font-size: 20px;
    
 }
 
@@ -85,7 +90,6 @@
 }
 
 
-body {
- font: "Andele Mono", monospace; 
-
+div {
+  font-family: cursive;
 }
