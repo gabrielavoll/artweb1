@@ -9,14 +9,11 @@
   
 }
 
-#artgato{
-  margin-left:200px;
-  margin-top:50px; 
-}
-
-#gabby {
-  margin-left: 100px;
-  margin-top: 30px;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
 }
 
 .center p {
@@ -43,16 +40,15 @@
 }
 
 .top p {
-  margin-top: 25px;
-  margin-left: 40px;
-  
+  text-align: center; 
+  margin-top: 20px;
 }
 
 
 .navbar {
    
   position: fixed; 
-  height: 80%; 
+  height: 550px; 
   width:20%;
   background-color: #000000;
   margin-top: 80px; 
@@ -60,14 +56,14 @@
 }
 
 .navbar ul {
- margin-top: 15%;  
-
+ margin-top: 50px;  
+  
 }
 
 .navbar li  {
-  margin-left: 5%; 
-  margin-top: 30px;
-  margin-bottom: 40px;
+  margin-left: 20px; 
+  margin-top: 40px;
+  margin-bottom: 60px;
   list-style-type: none; 
   color:;#FFCCCC;
   font-size: 20px;
